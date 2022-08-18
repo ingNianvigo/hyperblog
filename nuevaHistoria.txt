@@ -3,7 +3,7 @@ Esta es la nueva historia
 empezaremos poco a poco para que no se pierda la motivacion
 estudiaremos cada uno de los comandos para arraigar el conocimiento
 
-ahora probaremos los comandos rm y vamos una ves mas
+ahora probaremos los comandos reset
 
 porque el conocimiento es poder
 
